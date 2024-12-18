@@ -1,18 +1,23 @@
+/*class selector*/
 .Profile {
     color: hotpink;
-    background-color: black;
 }
 
 .background {
-    color: hotpink;
-    background-color: black;
+    color: rgb(34, 137, 171);
 }
-
+/*universal selector*/
 *{
     background-color: black;
     text-align: center;
 }
-
+/*id selector*/
 #me {
-    color: orange;
+    color: #013acd;
+    font-weight: 300;
+    
+}
+/*tag selector*/
+p {
+    color: green;
 }
