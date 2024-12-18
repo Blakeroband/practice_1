@@ -1,0 +1,18 @@
+.Profile {
+    color: hotpink;
+    background-color: black;
+}
+
+.background {
+    color: hotpink;
+    background-color: black;
+}
+
+*{
+    background-color: black;
+    text-align: center;
+}
+
+#me {
+    color: orange;
+}
